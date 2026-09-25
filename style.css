@@ -1,0 +1,31 @@
+body {
+margin: 0;
+background-color: #fafafa;
+color: #333;
+}
+
+h1 {
+background-color: #626eb3;
+color: rgb(0, 0, 0);
+padding: 20px;
+margin: 0 0 20px 0;
+font-size: 32px;
+}
+
+button {
+background-color: #626eb3;
+color: white;
+border: 1px solid #7d8de8;
+border-radius: 15px;
+padding: 8px 12px;
+margin: 5px;
+
+}
+
+button:hover {
+background-color: #aeb8f5;
+}
+
+
+
+
